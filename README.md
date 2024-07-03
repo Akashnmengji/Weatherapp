@@ -12,7 +12,5 @@ Explanation:
 ![](snapscreen/3.jpeg) ![](snapscreen/4.jpeg)
 ![](snapscreen/1.jpeg)
 
-![](snapscreen/video.mp4)
-
 Above is the code.
 
