@@ -8,7 +8,11 @@ Explanation:
 3.fetchWeather Method: Makes a GET request to the OpenWeather API using the city name entered by the user.
 4.UI: Includes a TextField for input, a CircularProgressIndicator for loading, and Text widgets to display the weather description and temperature.
 
+![](snapscreen/1.jpeg) ![](snapscreen/2.jpeg)
+![](snapscreen/3.jpeg) ![](snapscreen/4.jpeg)
 ![](snapscreen/1.jpeg)
+
+![](snapscreen/video.mp4)
 
 Above is the code.
 
